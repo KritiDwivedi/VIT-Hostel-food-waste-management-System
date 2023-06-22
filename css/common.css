@@ -1,0 +1,21 @@
+.nav-but-index{
+    color: black!important;
+    text-decoration: none!important;
+}
+
+.gold-color{
+    color: #c2ab92!important;
+}
+
+.nav-but-index:hover{
+    color: white!important;
+    text-decoration: none!important;
+}
+
+.welc{
+    text-align:center!important;
+    font-size:5vh!important;
+    word-wrap:break-word!important;
+    margin-bottom:1em!important;
+    text-decoration:underline!important;
+}
